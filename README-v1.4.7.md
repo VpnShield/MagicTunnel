@@ -4,5 +4,5 @@
 "Link": "https://t.me/Vpn_Shield",
 "Color": "#40d1b2",
 "Button": "پیوستن",
-"Show": "on"
+"Show": "off"
 }
